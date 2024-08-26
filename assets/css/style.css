@@ -1,0 +1,45 @@
+/* styles.css */
+
+/* Estilo básico para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilo para el contenedor principal */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Estilo para los párrafos */
+p {
+    text-align: center;
+    color: #666;
+    font-size: 16px;
+    margin: 10px auto;
+}
+
+/* Estilo para la consola */
+.console-output {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    max-width: 800px;
+    margin: 20px auto;
+    font-family: monospace;
+    font-size: 14px;
+    color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para los mensajes dentro de la consola */
+.console-output pre {
+    margin: 0;
+    white-space: pre-wrap; /* Permite el ajuste de línea en el contenido preformateado */
+}
