@@ -1,6 +1,6 @@
 # Desafío - Multiplicación
 
-[Enlace Directo al Proyecto](https://desafio-multiplicacion-j8s2.vercel.app/)
+[Enlace Directo al Proyecto](https://desafio-multiplicacion.vercel.app/)
 
 Este proyecto es una solución para un desafío que involucra la creación de un programa en JavaScript para calcular y mostrar tablas de multiplicar y factoriales de números ingresados por el usuario. 
 
